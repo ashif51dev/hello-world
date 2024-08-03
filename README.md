@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 This line added from github editor.
 
 This line is added to learn pull command 
+
+This is a new line.
